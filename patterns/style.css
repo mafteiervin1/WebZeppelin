@@ -1,0 +1,30 @@
+
+	label {
+		color: #646464;
+
+	}
+	textarea {
+		
+		background: #f8f8f8;
+		color: #646464;
+		
+	}
+	#header {
+		background: #444;
+		color: #bbb;
+	}
+	
+	
+	#footer {
+		background: #f0f0f0;
+			color: #e89980;
+		
+	}
+	body, input, select, textarea {
+		color: #777;
+		font-family: "Source Sans Pro", sans-serif;
+		
+	}
+
+	
+	
