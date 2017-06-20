@@ -11,7 +11,7 @@
 </servlet-mapping>
 
     <context-param>
-        <description>Location to store uploaded file</description>
+        <description>Locatie pentru upload</description>
         <param-name>file-upload</param-name>
         <param-value>
          C:\Users\andrei\Desktop\lol
